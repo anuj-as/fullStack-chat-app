@@ -12,7 +12,6 @@ A full-stack real-time chat application built using the **MERN** stack, with **S
 - 🚀 **Online user status** tracking  
 - 👌 **Global state management** via **Zustand**  
 - 🐞 Robust **error handling** on both server and client  
-- ⭐ **Free deployment guide** included  
 - ⏳ ...and **much more!**
 
 ---
